@@ -1,0 +1,1 @@
+Open by opening the login.php file in the browser
