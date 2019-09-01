@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $dBusername = "root";
-$dBpword = "futur3_4Ward";
+$dBpword = "";
 $dBname = "physics_lab_app";
 $dBTableName = "appledger";
 
